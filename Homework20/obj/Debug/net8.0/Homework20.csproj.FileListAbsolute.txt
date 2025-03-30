@@ -1,0 +1,14 @@
+F:\TeachingHillel\Homework20\Homework20\bin\Debug\net8.0\Homework20.exe
+F:\TeachingHillel\Homework20\Homework20\bin\Debug\net8.0\Homework20.deps.json
+F:\TeachingHillel\Homework20\Homework20\bin\Debug\net8.0\Homework20.runtimeconfig.json
+F:\TeachingHillel\Homework20\Homework20\bin\Debug\net8.0\Homework20.dll
+F:\TeachingHillel\Homework20\Homework20\bin\Debug\net8.0\Homework20.pdb
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.AssemblyInfoInputs.cache
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.AssemblyInfo.cs
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.dll
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\refint\Homework20.dll
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.pdb
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\Homework20.genruntimeconfig.cache
+F:\TeachingHillel\Homework20\Homework20\obj\Debug\net8.0\ref\Homework20.dll
